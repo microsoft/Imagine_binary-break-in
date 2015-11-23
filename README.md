@@ -1,4 +1,4 @@
-![](https://github.com/Microsoft/Imagine_binary-break-in/blob/master/Microsoft-Imagine.png
+![](https://github.com/Microsoft/Imagine_binary-break-in/blob/master/Microsoft-Imagine.png)
 
 ## Welcome to Microsoft Imagine's Binary Break-In
 Hello from the [Microsoft Imagine team](http://imagine.microsoft.com)! Thanks for checking out our game project, **Binary Break-In**.  Learn about the base 2 binary number system and apply this knowledge to crack open the safe!
