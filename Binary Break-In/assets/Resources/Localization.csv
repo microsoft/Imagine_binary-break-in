@@ -1,0 +1,13 @@
+Key,English,Pirate
+Language,English,Scurvy Pirate
+Tutorial Description,"Crack the safe with your binary number knowledge!\nClick the wheel to enter the code.","Crack the safe with your binary number knowledge!\nClick the wheel to enter the code."
+Tutorial Escape,Esc,Esc
+Tutorial Mouse,Interact,Interact
+Tutorial Quit,Quit,Quit
+Button Start,Start,Ahoy!
+Level Complete Description,Nice Work!,Yohoho!
+Game Complete Description,Finished!,Finished!
+Button Next,Next,Next
+Button Retry,Retry,Retry
+Button Restart,Start Over,Avast!
+HUD Level,Level: {0},Level: {0}

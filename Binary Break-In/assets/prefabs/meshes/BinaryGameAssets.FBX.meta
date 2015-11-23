@@ -1,0 +1,132 @@
+fileFormatVersion: 2
+guid: 202f8bb675900034fb00162ca4a61432
+timeCreated: 1434674041
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Enter
+    100004: GoldBarSet
+    100006: Input
+    100008: Light
+    100010: Safe
+    100012: SafeDoor
+    100014: Tape
+    100016: Wheel
+    100018: Room
+    100020: GoldBar
+    100022: Safe001
+    100024: SafeDoor001
+    100026: Wheel001
+    400000: //RootNode
+    400002: Enter
+    400004: GoldBarSet
+    400006: Input
+    400008: Light
+    400010: Safe
+    400012: SafeDoor
+    400014: Tape
+    400016: Wheel
+    400018: Room
+    400020: GoldBar
+    400022: Safe001
+    400024: SafeDoor001
+    400026: Wheel001
+    2300000: Enter
+    2300002: GoldBarSet
+    2300004: Input
+    2300006: Light
+    2300008: Safe
+    2300010: SafeDoor
+    2300012: Tape
+    2300014: Wheel
+    2300016: Room
+    2300018: GoldBar
+    2300020: Safe001
+    2300022: SafeDoor001
+    2300024: Wheel001
+    3300000: Enter
+    3300002: GoldBarSet
+    3300004: Input
+    3300006: Light
+    3300008: Safe
+    3300010: SafeDoor
+    3300012: Tape
+    3300014: Wheel
+    3300016: Room
+    3300018: GoldBar
+    3300020: Safe001
+    3300022: SafeDoor001
+    3300024: Wheel001
+    4300000: GoldBarSet
+    4300002: Safe
+    4300004: SafeDoor
+    4300006: Wheel
+    4300008: Tape
+    4300010: Enter
+    4300012: Light
+    4300014: Input
+    4300016: Room
+    4300018: GoldBar
+    4300020: Safe001
+    4300022: SafeDoor001
+    4300024: Wheel001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
