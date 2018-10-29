@@ -11,7 +11,7 @@ Microsoft Imagine gives you the tools you need to experiment, explore, and launc
 
 This repository holds the assets and C# source code for the game project, **Binary Break-In**. 
 
-If you're new to Unity, C#, or just need some guidance overall, [head to the Binary Break-In page](https://msdn.microsoft.com/imagine/imagine-create019) on the [Microsoft Imagine site](http://imagine.microsoft.com) and follow our steps in the embedded Office Mix to complete the code for your own version of the game.
+If you're new to Unity, C#, or just need some guidance overall, [head to the Binary Break-In page](https://imagine-ppe.microsoft.com/en-us/Code/Details/19) on the [Microsoft Imagine site](http://imagine.microsoft.com) and follow our steps in the embedded Office Mix to complete the code for your own version of the game.
 
 Otherwise, feel free to use our Binary Break-In code and assets to start building the kinds of games you like to play in Unity and C#, and develop the skills to turn your own ideas into something real.  
 
